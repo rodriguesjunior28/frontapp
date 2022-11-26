@@ -3,7 +3,8 @@ import 'bootswatch/dist/solar/bootstrap.css';
 function App() {
   return (
     <div>
-      Junior Rodrigues - Tudo posso naquele que me fortalece.
+      Junior Rodrigues - Tudo posso naquele que me fortalece. 
+      <h1> Germano meu irmão </h1>
     </div>
   );
 }
